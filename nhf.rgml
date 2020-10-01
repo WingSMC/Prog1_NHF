@@ -1,0 +1,8 @@
+<"root" "Kanos kecske eladó" "0 0 1280 720" "0 0 0 255"
+	<"button" "button1" "10 10 180 180" "255 255 0 255"
+	<"button" "button2" "10 530 180 180" "255 0 0 255"
+	<"button" "button3" "1090 10 180 180" "255 0 0 255"
+	<"button" "button4" "1090 530 180 180" "0 0 0 0" "valami.png"
+>
+
+type name dimensions(x y dx dy) color(r g b a) ?texture ?data
